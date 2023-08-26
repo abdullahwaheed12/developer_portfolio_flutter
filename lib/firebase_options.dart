@@ -53,11 +53,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDLC9Gotjk_Y4KV3FP5y0I0h48P3lKBgLM',
-    appId: '1:541444394280:web:129b6f600a35975591141d',
-    messagingSenderId: '541444394280',
-    projectId: 'my-cali-health',
-    authDomain: 'my-cali-health.firebaseapp.com',
-    storageBucket: 'my-cali-health.appspot.com',
+    apiKey: 'AIzaSyCsraZ3Wxf2Gy7s0wQbPHCNPbKrlQyk9sc',
+    appId: '1:580818079065:web:577fe3ae7e7c0e1c1f5048',
+    messagingSenderId: '580818079065',
+    projectId: 'my-portfolio-47e33',
+    authDomain: 'my-portfolio-47e33.firebaseapp.com',
+    storageBucket: 'my-portfolio-47e33.appspot.com',
+    measurementId: 'G-GY1YJJF8XL',
   );
 }
