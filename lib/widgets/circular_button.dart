@@ -28,7 +28,7 @@ class _ActionButtonState extends State<ActionButton> {
       case ButtonType.playStore:
         return googlePlayIcon;
       case ButtonType.miStore:
-        return miStoreIcon;
+        return appStoreIcon;
       default:
         return websiteIcon;
     }

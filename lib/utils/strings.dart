@@ -11,7 +11,7 @@ const String github = 'https://github.com/abdullahwaheed12';
 const String linkedin =
     'https://www.linkedin.com/in/abdullah-waheed-ab3728169/';
 const String emailId = 'abdullahwaheed527@gmail.com';
-const String miStoreIcon = 'assets/images/getApps_badge.png';
+const String appStoreIcon = 'assets/images/app_store_badge.png';
 const String googlePlayIcon = 'assets/images/google-play-badge.png';
 const String websiteIcon = 'assets/images/website.png';
 const String githubIcon = 'assets/images/github.png';
