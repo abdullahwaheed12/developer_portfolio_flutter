@@ -12,7 +12,6 @@ class _ProjectDetailsState extends State<ProjectDetails> {
   final ScrollController _scrollController = ScrollController();
   @override
   Widget build(BuildContext context) {
-    print(widget.data.screenshot[1]);
     return Scaffold(
       backgroundColor: kWhite,
       body: SafeArea(
