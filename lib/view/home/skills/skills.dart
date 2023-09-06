@@ -1,4 +1,4 @@
-import 'package:om_chauhan/all_imports.dart';
+import 'package:Abdullah/all_imports.dart';
 
 class Skills extends StatefulWidget {
   const Skills({
@@ -18,7 +18,8 @@ class _SkillsState extends State<Skills> {
       width: size.width,
       alignment: Alignment.center,
       padding: EdgeInsets.symmetric(
-          horizontal: Responsive.isDesktop(context) ? 120 : 20, vertical: Responsive.isDesktop(context) ? 50 : 20),
+          horizontal: Responsive.isDesktop(context) ? 120 : 20,
+          vertical: Responsive.isDesktop(context) ? 50 : 20),
       child: Column(
         children: [
           TextBuilder(
@@ -33,7 +34,8 @@ class _SkillsState extends State<Skills> {
             child: GridView.builder(
               gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                 crossAxisCount: Responsive.isMobile(context) ? 2 : 5,
-                childAspectRatio: Responsive.isMobile(context) ? 1 / 1 : 1 / 1.1,
+                childAspectRatio:
+                    Responsive.isMobile(context) ? 1 / 1 : 1 / 1.1,
                 mainAxisSpacing: 20,
                 crossAxisSpacing: 20,
               ),

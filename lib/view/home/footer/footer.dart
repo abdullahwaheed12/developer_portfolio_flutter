@@ -1,4 +1,4 @@
-import 'package:om_chauhan/all_imports.dart';
+import 'package:Abdullah/all_imports.dart';
 
 class Footer extends StatefulWidget {
   final void Function()? clickToTop;

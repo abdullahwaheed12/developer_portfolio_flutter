@@ -1,4 +1,4 @@
-import 'package:om_chauhan/all_imports.dart';
+import 'package:Abdullah/all_imports.dart';
 
 class About extends StatefulWidget {
   const About({
@@ -17,7 +17,8 @@ class _AboutState extends State<About> {
       width: size.width,
       height: Responsive.isDesktop(context) ? 450 : null,
       alignment: Alignment.center,
-      padding: EdgeInsets.symmetric(horizontal: Responsive.isDesktop(context) ? 120 : 20),
+      padding: EdgeInsets.symmetric(
+          horizontal: Responsive.isDesktop(context) ? 120 : 20),
       child: Responsive.isDesktop(context)
           ? Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,

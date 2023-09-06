@@ -1,6 +1,7 @@
-import 'package:om_chauhan/all_imports.dart';
+import 'package:Abdullah/all_imports.dart';
 
-Future<dynamic> showImagePreview({required BuildContext context, required String image}) {
+Future<dynamic> showImagePreview(
+    {required BuildContext context, required String image}) {
   return showDialog(
     context: context,
     useSafeArea: true,
@@ -67,9 +68,12 @@ Future<dynamic> showImagePreview({required BuildContext context, required String
                           imageUrl: image,
                           fit: BoxFit.cover,
                           height: 600,
-                          progressIndicatorBuilder: (context, url, downloadProgress) =>
-                              Center(child: CircularProgressIndicator(value: downloadProgress.progress)),
-                          errorWidget: (context, url, error) => const Icon(Icons.error),
+                          progressIndicatorBuilder:
+                              (context, url, downloadProgress) => Center(
+                                  child: CircularProgressIndicator(
+                                      value: downloadProgress.progress)),
+                          errorWidget: (context, url, error) =>
+                              const Icon(Icons.error),
                         ),
                       ),
                     ),

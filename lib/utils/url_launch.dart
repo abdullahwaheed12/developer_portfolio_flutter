@@ -1,4 +1,4 @@
-import 'package:om_chauhan/all_imports.dart';
+import 'package:Abdullah/all_imports.dart';
 
 class UrlLaunch {
   static Future makePhoneCall({String? phoneNumber}) async {
@@ -9,7 +9,8 @@ class UrlLaunch {
     await launchUrl(launchUri);
   }
 
-  static Future makeEmail({String? email, String? subject, String? body}) async {
+  static Future makeEmail(
+      {String? email, String? subject, String? body}) async {
     final Uri params = Uri(
       scheme: 'mailto',
       path: email,

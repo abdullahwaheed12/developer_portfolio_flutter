@@ -1,6 +1,7 @@
-import 'package:om_chauhan/all_imports.dart';
+import 'package:Abdullah/all_imports.dart';
 
-Future<dynamic> showDetails({required BuildContext context, required Widget child}) {
+Future<dynamic> showDetails(
+    {required BuildContext context, required Widget child}) {
   return showDialog(
     context: context,
     useSafeArea: true,
