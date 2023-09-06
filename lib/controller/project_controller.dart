@@ -138,7 +138,7 @@ Fitness health app has multiple built-in tools that gauge your daily activities.
 //       miStore: '',
 //       playStore: '',
 //     ),
-    //7
+    //6
     ProjectModel(
       title: "Klomi airbnb",
       description: """
@@ -154,7 +154,7 @@ Welcome to Klomi, your ultimate Airbnb clone experience! Discover the convenienc
       miStore: '',
       playStore: '',
     ),
-    //8
+    //7
     ProjectModel(
       title: "AgendaVue",
       description: """
@@ -169,7 +169,7 @@ AgendaVue is a powerful and user-friendly app that helps you manage your school 
       playStore:
           'https://play.google.com/store/apps/details?id=com.tadesse.agendavue',
     ),
-    //9
+    //8
     ProjectModel(
       title: "Time pe APP UI",
       description: """
@@ -185,7 +185,7 @@ download the apk and check out on your mobile from the link.
       miStore: '',
       playStore: '',
     ),
-    //10
+    //9
     ProjectModel(
       title: "Whenja APP UI",
       description: """
@@ -200,7 +200,7 @@ UI. You can download the APK or watch the video.
       miStore: '',
       playStore: '',
     ),
-    //11
+    //10
     ProjectModel(
       title: "Cali health",
       description: """
@@ -214,7 +214,7 @@ Cali Health is basically a treatment test reminder app. Firstly app taking the q
       miStore: '',
       playStore: '',
     ),
-    //12
+    //11
     ProjectModel(
       title: "Sendit Business",
       description: """
@@ -232,7 +232,7 @@ You can register your business on SendIt and start managing it through SendIt Bu
       playStore:
           'https://play.google.com/store/apps/details?id=com.app.senditvendor',
     ),
-    //13
+    //12
     ProjectModel(
       title: "Sendit User",
       description: """
@@ -253,11 +253,37 @@ This is the user app of Sendit. In this app, users can order their favorite dish
       miStore: '',
       playStore: 'https://play.google.com/store/apps/details?id=com.app.sendIt',
     ),
-    //14
+    //13
     ProjectModel(
       title: "Unit Converter",
       description: """
-This is the  Units converter app where you can convert any type of unit to its relevant units. check out video and apk with the links bellow
+Title: "Unit Converter:"
+
+Description:
+Discover the ultimate solution for effortless unit conversions with our Unit Converter app. Whether you're tackling everyday conversions or delving into more specialized measurements, this app has you covered. Say goodbye to complex calculations and hello to simplicity and accuracy.
+
+Key Features:
+
+1. **Versatile Unit Conversion**: From length and weight to temperature, currency, and more, our Unit Converter handles a wide range of units, making it your go-to tool for any conversion need.
+
+2. **User-Friendly Interface**: Our app boasts an intuitive and user-friendly interface, ensuring smooth navigation for users of all backgrounds.
+
+3. **Precision at Your Fingertips**: Achieve precise conversions quickly and easily, eliminating the guesswork from your calculations.
+
+4. **Comprehensive Conversion Library**: With a comprehensive library of units and categories, you can convert everything from the ordinary to the obscure.
+
+5. **Custom Conversion Categories**: Tailor the app to your specific needs by creating custom conversion categories, ensuring that it adapts to your unique requirements.
+
+7. **Video Demonstration**: Watch our tutorial video to get started with the app's features and make the most out of your conversion needs.
+
+8. **Download APK**: Access the APK file directly to install the app on your Android device quickly.
+
+9. **Simplify Your Life**: Whether you're a student, traveler, engineer, or simply curious, our Unit Converter simplifies your life by providing accurate conversions at your fingertips.
+
+Say goodbye to the hassle of manual calculations and hello to convenience and accuracy. Experience the power of seamless unit conversions with our Unit Converter app.
+
+To get started, check out our video tutorial and download the APK using the links below:
+
 """,
       website: '',
       gitHub: '',
@@ -271,7 +297,27 @@ This is the  Units converter app where you can convert any type of unit to its r
     ProjectModel(
       title: "T-Save-User",
       description: """
-It is the FYP Project for a student. It is the user side app in which user can call for home service provider. Can give feedback. Can give ratting. Can trace the order booking etc
+Embark on a journey of convenience and seamless home service experiences with T-Save, the brainchild of a dedicated student's Final Year Project (FYP). This remarkable user-side app is designed to revolutionize how you access home services, provide feedback, and rate your experiences—all while effortlessly tracking your service requests.
+
+Key Features:
+
+1. **Your Service, Your Way**: T-Save puts the power of home services at your fingertips. With just a few taps, you can request assistance for a wide range of services, tailored to your needs.
+
+2. **User-Friendly Interface**: Our app boasts an intuitive and user-friendly interface, ensuring that anyone can easily access and navigate its features, regardless of tech-savviness.
+
+3. **Seamless Service Booking**: Need a plumber, electrician, or any other service provider? T-Save simplifies the booking process, connecting you with skilled professionals in your area swiftly.
+
+4. **Feedback Empowerment**: Your voice matters! T-Save encourages you to provide feedback on your service experiences, helping service providers improve their quality.
+
+5. **Rating Excellence**: Rate your service providers with ease. Share your satisfaction levels with the community and help others make informed choices.
+
+6. **Service Variety**: From household repairs to home cleaning and beyond, T-Saveoffers a wide range of service categories to meet your every need.
+
+10. **Community Support**: Join our growing community of satisfied users and service providers. Experience the reliability and convenience of home services like never before.
+
+11. **Efficiency and Reliability**: T-Save ensures that you receive timely and efficient home services, allowing you to carry on with your busy life hassle-free.
+
+Discover the future of home service booking and experience. Download T-Save-User today and start enjoying a world of convenience, reliability, and excellence in home services. Request services, provide feedback, and rate your experiences, all while tracking your service orders effortlessly. Your home deserves the best—make it happen with T-Save.
 """,
       website: 'https://github.com/abdullahwaheed12/t-save-user',
       gitHub: 'https://github.com/abdullahwaheed12/t-save-user',
@@ -281,11 +327,38 @@ It is the FYP Project for a student. It is the user side app in which user can c
       miStore: '',
       playStore: '',
     ),
-    //14
+    //15
     ProjectModel(
-      title: "T-Save-Service-provider",
+      title: "T-Save-Service-Provider",
       description: """
-It is the FYP Project for a student. It is the service provider side app in which servce provider can registor himself waiting for the approval the registration after checking his photos and other documents. Can respond to the user. Can accept the booking request.
+
+Dive into the future of service provision with T-Save-Service-Provider, the brainchild of a diligent student's Final Year Project (FYP). This innovative service provider-side app is designed to empower professionals like you to deliver top-notch services while ensuring trust and reliability for users.
+
+Key Features:
+
+1. **Empowering Student Innovation**: T-Save-Service-Provider is more than just an app; it's a testament to the ingenuity and dedication, here to transform how service providers operate.
+
+2. **Effortless Registration**: Service providers can easily register their profiles, but that's just the beginning. We prioritize user trust, so we review photos and other documents before granting approval.
+
+3. **Trust and Verification**: Users can trust that the service providers on T-Save-Service-Provider are vetted and approved, providing peace of mind for all parties involved.
+
+4. **Swift Response**: Receive booking requests from users promptly. T-Save-Service-Provider ensures you never miss an opportunity to provide your valuable services.
+
+5. **User Engagement**: Engage with users seamlessly through the app. Clarify details, provide updates, and maintain excellent communication to ensure a smooth service experience.
+
+6. **Streamlined Booking Acceptance**: Accept booking requests effortlessly, allowing you to manage your schedule with ease and convenience.
+
+7. **Secure Documentation**: Rest assured that your documents and personal information are secure with T-Save-Service-Provider. We prioritize data protection and privacy.
+
+8. **Community of Professionals**: Join a growing community of service providers dedicated to excellence. Connect with like-minded professionals and expand your reach.
+
+9. **Service Variety**: Whether you're a plumber, electrician, or offer any other service, T-Save-Service-Provider is your platform to reach a diverse clientele.
+
+10. **Reliable and Trustworthy**: T-Save-Service-Provider ensures that you provide reliable and trustworthy services, bolstering your reputation as a service provider.
+
+11. **Efficiency and Growth**: Our app streamlines your workflow, allowing you to focus on what you do best—providing exceptional services to your clients while growing your business.
+
+Join the movement of innovation and excellence in service provision. Download T-Save-Service-Provider today and experience the power of a student's vision for a brighter future in the service industry. Register your profile, undergo verification, and start accepting booking requests with confidence. Your dedication to service deserves a platform that empowers and supports your journey—find it with T-Save-Service-Provider.
 """,
       website: 'https://github.com/abdullahwaheed12/t_save_service_provider',
       gitHub: 'https://github.com/abdullahwaheed12/t_save_service_provider',
@@ -295,7 +368,7 @@ It is the FYP Project for a student. It is the service provider side app in whic
       miStore: '',
       playStore: '',
     ),
-    //15
+    //16
     ProjectModel(
       title: "Mkhosi",
       description: """
@@ -336,6 +409,90 @@ https://mkhosi.com/
       miStore: 'https://apps.apple.com/za/app/mkhosi/id1586494765',
       playStore:
           'https://play.google.com/store/apps/details?id=com.squadtechs.markhor.makhosi_app&hl=en_US',
+    ),
+    //17
+    ProjectModel(
+      title: "Book a table user",
+      description: """
+Introducing Book a table, the ultimate dining app that redefines how you experience restaurants. With Book a table, you're not just ordering food; you're securing your ideal dining experience. Discover a world of culinary delights, explore diverse menus, and reserve your table with ease—all in one app.
+
+Key Features:
+
+1. **Multivendor Marvel**: Book a table is the platform where restaurants of all sizes and cuisines come together. It's a vibrant marketplace where restaurant owners can register, showcase their menus, and attract a wide audience of food enthusiasts.
+
+2. **Effortless Restaurant Registration**: For restaurant owners, getting on board is a breeze. Our user-friendly interface simplifies the registration process, allowing you to list your mouthwatering offerings swiftly.
+
+3. **Menu Extravaganza**: Restaurants can showcase their complete menu, complete with appetizing descriptions and tantalizing images. Capture the essence of your dishes and entice customers with stunning visuals.
+
+4. **Personalized Food Ordering**: Users can explore diverse menus and customize their orders to suit their cravings. Whether you prefer spicy, savory, or sweet, Book a table lets you tailor your meal exactly the way you like it.
+
+5. **Seamless Ordering Process**: Our intuitive interface ensures a smooth ordering process. Customers can browse restaurant menus, add items to their cart, and complete transactions effortlessly.
+
+6. **Table Reservations**: The standout feature of Book a table ! Plan your dining experience in advance by reserving a table at your chosen restaurant. No more waiting for hours; your table is ready when you arrive.
+
+7. **Real-Time Updates**: Stay informed with real-time updates on your order's status and table reservation. Track your meal's preparation and receive notifications when your table is ready.
+
+8. **Secure Payments**: Your security is paramount. Book a table offers secure payment options to ensure that your financial transactions are safe and protected.
+
+9. **Ratings and Reviews**: Share your dining experiences by leaving ratings and reviews for restaurants. Help fellow food enthusiasts discover exceptional dishes and top-notch dining establishments.
+
+10. **Location-Based Convenience**: Find restaurants nearby effortlessly. Book a table uses location services to connect you with local culinary gems and available tables.
+
+11. **Dedicated Customer Support**: Our support team is here to assist you with any inquiries or concerns, ensuring a delightful dining and reservation experience.
+
+Book a table is where culinary innovation meets the ease of dining out. Join our community of food lovers and restaurant owners today. Experience a world of flavors, support local businesses, and reserve tables for memorable dining occasions.
+
+Download Book a table now to embark on a culinary adventure that caters to your taste buds and ensures a dining experience that's worth savoring. Reserve your table, order your favorites, and enjoy dining like never before.
+""",
+      website: 'https://github.com/abdullahwaheed12/book_a_table_user',
+      gitHub: 'https://github.com/abdullahwaheed12/book_a_table_user',
+      top: true,
+      demo: 'https://youtu.be/5g96Vr24jFU',
+      screenshot: Screenshots.bookatableuser,
+      miStore: '',
+      playStore: '',
+    ),
+    //18
+    ProjectModel(
+      title: "Book a table restaurant",
+      description: """
+Introducing Book a table, the ultimate dining app that redefines how you experience restaurants. With Book a table, you're not just ordering food; you're securing your ideal dining experience. Discover a world of culinary delights, explore diverse menus, and reserve your table with ease—all in one app.
+
+Key Features:
+
+1. **Multivendor Marvel**: Book a table is the platform where restaurants of all sizes and cuisines come together. It's a vibrant marketplace where restaurant owners can register, showcase their menus, and attract a wide audience of food enthusiasts.
+
+2. **Effortless Restaurant Registration**: For restaurant owners, getting on board is a breeze. Our user-friendly interface simplifies the registration process, allowing you to list your mouthwatering offerings swiftly.
+
+3. **Menu Extravaganza**: Restaurants can showcase their complete menu, complete with appetizing descriptions and tantalizing images. Capture the essence of your dishes and entice customers with stunning visuals.
+
+4. **Personalized Food Ordering**: Users can explore diverse menus and customize their orders to suit their cravings. Whether you prefer spicy, savory, or sweet, Book a table lets you tailor your meal exactly the way you like it.
+
+5. **Seamless Ordering Process**: Our intuitive interface ensures a smooth ordering process. Customers can browse restaurant menus, add items to their cart, and complete transactions effortlessly.
+
+6. **Table Reservations**: The standout feature of Book a table ! Plan your dining experience in advance by reserving a table at your chosen restaurant. No more waiting for hours; your table is ready when you arrive.
+
+7. **Real-Time Updates**: Stay informed with real-time updates on your order's status and table reservation. Track your meal's preparation and receive notifications when your table is ready.
+
+8. **Secure Payments**: Your security is paramount. Book a table offers secure payment options to ensure that your financial transactions are safe and protected.
+
+9. **Ratings and Reviews**: Share your dining experiences by leaving ratings and reviews for restaurants. Help fellow food enthusiasts discover exceptional dishes and top-notch dining establishments.
+
+10. **Location-Based Convenience**: Find restaurants nearby effortlessly. Book a table uses location services to connect you with local culinary gems and available tables.
+
+11. **Dedicated Customer Support**: Our support team is here to assist you with any inquiries or concerns, ensuring a delightful dining and reservation experience.
+
+Book a table is where culinary innovation meets the ease of dining out. Join our community of food lovers and restaurant owners today. Experience a world of flavors, support local businesses, and reserve tables for memorable dining occasions.
+
+Download Book a table now to embark on a culinary adventure that caters to your taste buds and ensures a dining experience that's worth savoring. Reserve your table, order your favorites, and enjoy dining like never before.
+""",
+      website: 'https://github.com/abdullahwaheed12/book_a_table_restaurent',
+      gitHub: 'https://github.com/abdullahwaheed12/book_a_table_restaurent',
+      top: true,
+      demo: 'https://youtu.be/5g96Vr24jFU',
+      screenshot: Screenshots.bookatableRestaurent,
+      miStore: '',
+      playStore: '',
     ),
   ];
 }

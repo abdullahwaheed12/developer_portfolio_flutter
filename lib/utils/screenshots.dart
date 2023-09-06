@@ -1,5 +1,42 @@
 class Screenshots {
   Screenshots._();
+  static List<String> bookatableuser = [
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693908968.png?alt=media&token=b0f3a347-0ded-45b8-9e6d-02e0097567f4',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693908974.png?alt=media&token=931c7377-e170-4ebe-90bd-af30a7dd54d3',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693908986.png?alt=media&token=43e53262-a542-43d8-9402-b09d05c3db14',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693908992.png?alt=media&token=5399dfd3-f25f-41ec-8f72-724edb016d6e',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693908996.png?alt=media&token=04564afc-fd14-4bca-a9b3-6f538441c420',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909007.png?alt=media&token=35b48657-be0b-45c0-8be0-1229d5341c6c',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909032.png?alt=media&token=af2fff1c-5876-4e8b-a715-7c5ea5ff63e0',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909038.png?alt=media&token=24ae662c-90dd-42b3-867a-e59b5bf36f27',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909047.png?alt=media&token=415aa939-7e81-4be6-98df-1cd8b6e2f844',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909052.png?alt=media&token=3fdfe77a-a7bb-416a-8511-836d5e92d9da',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909056.png?alt=media&token=c01dbffc-111a-4b9e-b501-b5a676b3597f',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909109.png?alt=media&token=b57acf97-2bff-45a9-b03f-21204eddf90f',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909133.png?alt=media&token=5f6c5576-edcb-4b16-976e-73c3a9fab772',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909273.png?alt=media&token=b39d999e-45f3-4e39-897b-1e22e28601b9',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909294.png?alt=media&token=e82adeb9-a86f-4d79-90f6-a0d57e4cf874',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909308.png?alt=media&token=cafa22bf-d133-4654-af0e-32f568d4b626',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909386.png?alt=media&token=0314ff23-ded6-47e3-85b8-7bfb8a196584',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909389.png?alt=media&token=4691dd18-bea5-4e0c-b1e0-614905ed6460',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909395.png?alt=media&token=33139d31-4a5e-4313-9622-25fe452db4b9',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909400.png?alt=media&token=1ff45c7e-67bb-4549-b53b-a679776e114e',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909427.png?alt=media&token=339b428f-4bd9-458e-a49e-b0f02c2da273',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/user%2FScreenshot_1693909435.png?alt=media&token=ddb1e5cf-1d63-4bf9-bc0f-03b9621a6224'
+  ];
+  static List<String> bookatableRestaurent = [
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/Restaurant%2FScreenshot_1693911164.png?alt=media&token=9282ee26-1142-466f-9683-9f44bf5885ea',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/Restaurant%2FScreenshot_1693911169.png?alt=media&token=2183aeab-3329-43a0-8bf3-542deca89462',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/Restaurant%2FScreenshot_1693911174.png?alt=media&token=d9fe7f61-c504-46eb-bbd5-9d432bdd1df3',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/Restaurant%2FScreenshot_1693911187.png?alt=media&token=dca64d81-5dfe-4941-927c-a052afc2621f',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/Restaurant%2FScreenshot_1693911190.png?alt=media&token=09ef5fa3-48c2-485d-b994-72fb579a6daf',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/Restaurant%2FScreenshot_1693911193.png?alt=media&token=4b6ac126-7879-4842-9522-211dcc5bad14',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/Restaurant%2FScreenshot_1693911197.png?alt=media&token=f2c07b8c-9eef-4120-9e23-fc8e6268ae71',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/Restaurant%2FScreenshot_1693911212.png?alt=media&token=747f367a-23f1-4738-bf66-e6954e504201',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/Restaurant%2FScreenshot_1693911221.png?alt=media&token=c595957d-acf8-4ea5-b595-e68e8dd267f1',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/Restaurant%2FScreenshot_1693911224.png?alt=media&token=e817eed1-8f12-4c7b-a24c-8bcb8e2471ee',
+    'https://firebasestorage.googleapis.com/v0/b/book-a-table-4bc3d.appspot.com/o/Restaurant%2FScreenshot_1693911227.png?alt=media&token=f9fc89a3-a9a3-467f-80e1-643e82539e33'
+  ];
   static List<String> tsaveserviceprovider = [
     'https://firebasestorage.googleapis.com/v0/b/t-save-5e0ef.appspot.com/o/screenshot%2Fservice_provider%2FScreenshot_1693039469.png?alt=media&token=bda66c9e-117b-41f7-ac78-f6dafe0a0413',
     'https://firebasestorage.googleapis.com/v0/b/t-save-5e0ef.appspot.com/o/screenshot%2Fservice_provider%2FScreenshot_1693039481.png?alt=media&token=4e52a719-eace-45fd-accb-4cb41dddf978',
