@@ -1,4 +1,4 @@
-import 'package:Abdullah/all_imports.dart';
+import 'package:abdullah/all_imports.dart';
 
 class ProjectController {
   final projectList = [
@@ -149,7 +149,7 @@ Welcome to Klomi, your ultimate Airbnb clone experience! Discover the convenienc
       gitHub: '',
       top: true,
       demo:
-          'https://www.youtube.com/watch?v=PsbZZM6x9gQ&ab_channel=AbdullahWaheed',
+          'https://www.youtube.com/watch?v=PsbZZM6x9gQ&ab_channel=abdullahWaheed',
       screenshot: Screenshots.klomi,
       miStore: '',
       playStore: '',
@@ -180,7 +180,7 @@ download the apk and check out on your mobile from the link.
       gitHub: '',
       top: true,
       demo:
-          'https://www.youtube.com/watch?v=bFwEX8TLCDU&ab_channel=AbdullahWaheed',
+          'https://www.youtube.com/watch?v=bFwEX8TLCDU&ab_channel=abdullahWaheed',
       screenshot: Screenshots.timePeUi,
       miStore: '',
       playStore: '',

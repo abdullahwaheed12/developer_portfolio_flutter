@@ -1,4 +1,4 @@
-import 'package:Abdullah/all_imports.dart';
+import 'package:abdullah/all_imports.dart';
 
 class TopMenu extends StatefulWidget {
   final Function()? home;
@@ -42,7 +42,7 @@ class _TopMenuState extends State<TopMenu> {
                 ),
                 const SizedBox(width: 10.0),
                 TextBuilder(
-                  text: 'Abdullah Portfolio',
+                  text: 'abdullah Portfolio',
                   fontSize: 26,
                   textAlign: TextAlign.left,
                   fontWeight: FontWeight.w600,

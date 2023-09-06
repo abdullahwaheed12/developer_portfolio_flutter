@@ -1,4 +1,4 @@
-const String name = 'Abdullah';
+const String name = 'abdullah';
 const String role = 'Flutter Developer';
 const String about = """
 I have 3 years of mobile development experience and 2+ years of experience in Flutter I have a strong foundation in building high-quality, user-friendly mobile applications. My skills include

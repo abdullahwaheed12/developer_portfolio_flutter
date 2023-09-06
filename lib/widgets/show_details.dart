@@ -1,4 +1,4 @@
-import 'package:Abdullah/all_imports.dart';
+import 'package:abdullah/all_imports.dart';
 
 Future<dynamic> showDetails(
     {required BuildContext context, required Widget child}) {

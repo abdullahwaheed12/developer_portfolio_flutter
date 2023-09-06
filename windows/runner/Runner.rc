@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.adbytee" "\0"
-            VALUE "FileDescription", "Abdullah" "\0"
+            VALUE "FileDescription", "abdullah" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "Abdullah" "\0"
+            VALUE "InternalName", "abdullah" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.adbytee. All rights reserved." "\0"
-            VALUE "OriginalFilename", "Abdullah.exe" "\0"
-            VALUE "ProductName", "Abdullah" "\0"
+            VALUE "OriginalFilename", "abdullah.exe" "\0"
+            VALUE "ProductName", "abdullah" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

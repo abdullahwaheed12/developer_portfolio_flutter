@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(Abdullah LANGUAGES CXX)
+project(abdullah LANGUAGES CXX)
 
-set(BINARY_NAME "Abdullah")
+set(BINARY_NAME "abdullah")
 
 cmake_policy(SET CMP0063 NEW)
 

@@ -1,4 +1,4 @@
-import 'package:Abdullah/all_imports.dart';
+import 'package:abdullah/all_imports.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 SharedPreferences? sp;
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Abdullah',
+      title: 'abdullah',
       theme:
           ThemeData(brightness: Brightness.light, primarySwatch: Colors.blue),
       darkTheme: ThemeData(brightness: Brightness.dark),
