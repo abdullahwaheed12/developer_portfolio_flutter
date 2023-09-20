@@ -134,8 +134,8 @@ class _HeroCtaState extends State<HeroCta> {
                     child: CircleAvatar(
                       backgroundColor: Colors.black12,
                       radius: 100,
-                      backgroundImage: NetworkImage(
-                        "https://firebasestorage.googleapis.com/v0/b/om-portfolio-github-website.appspot.com/o/profile.jpg?alt=media&token=dfa09671-10cc-4640-845a-b63a9912ee01",
+                      backgroundImage: AssetImage(
+                        "assets/images/my_pic.jpeg",
                       ),
                     ),
                   ),
