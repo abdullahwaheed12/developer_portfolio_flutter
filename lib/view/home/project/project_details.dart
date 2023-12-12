@@ -23,11 +23,13 @@ class _ProjectDetailsState extends State<ProjectDetails> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  TextBuilder(
-                    text: widget.data.title,
-                    color: kBlack,
-                    fontSize: 24,
-                    fontWeight: FontWeight.w500,
+                  Expanded(
+                    child: TextBuilder(
+                      text: widget.data.title,
+                      color: kBlack,
+                      fontSize: 24,
+                      fontWeight: FontWeight.w500,
+                    ),
                   ),
                   InkWell(
                     onTap: () {
