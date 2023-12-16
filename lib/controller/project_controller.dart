@@ -161,7 +161,7 @@ Welcome to Klomi, your ultimate Airbnb clone experience! Discover the convenienc
 AgendaVue is a powerful and user-friendly app that helps you manage your school assignments and grades. With AgendaVue, you can easily keep track of your class schedules and calculate grades. You can also view your grades and each assignment's grade in real time! AgendaVue is perfect for highschool students looking to manage their grades daily, and is essential for anyone looking to stay organized and on top of their academic responsibilities. With its sleek design and intuitive features, AgendaVue is the ultimate tool for academic success.
 """,
       website: 'https://agendavue.netlify.app/',
-      gitHub: '',
+      gitHub: 'https://github.com/abdullahwaheed12/agendavue-main',
       top: true,
       demo: '',
       screenshot: Screenshots.agendaVue,
@@ -174,10 +174,10 @@ AgendaVue is a powerful and user-friendly app that helps you manage your school 
       title: "Time pe APP UI",
       description: """
 This is the neuromorphic design of the Time pe app. It is the complete design of the app. You can watch the video and photos or
-download the apk and check out on your mobile from the link.
+ check out on your mobile from the link.
 """,
       website: '',
-      gitHub: '',
+      gitHub: 'https://github.com/abdullahwaheed12/time_pe',
       top: true,
       demo:
           'https://www.youtube.com/watch?v=bFwEX8TLCDU&ab_channel=abdullahWaheed',
@@ -190,7 +190,7 @@ download the apk and check out on your mobile from the link.
       title: "Whenja APP UI",
       description: """
 This app is based on freelancers and buyers. Where buyers post the job and freelancers apply for it. This is just a
-UI. You can download the APK or watch the video.
+UI. You can watch the video.
 """,
       website: '',
       gitHub: '',
@@ -207,7 +207,7 @@ UI. You can download the APK or watch the video.
 Cali Health is basically a treatment test reminder app. Firstly app taking the question answer and suggest the test according to various paramenter e.g age,height,weight, gender etc. Then remind user for the test.
 """,
       website: '',
-      gitHub: '',
+      gitHub: 'https://github.com/abdullahwaheed12/cali_health',
       top: true,
       demo: 'https://youtu.be/zK4jrXkIynA',
       screenshot: Screenshots.caliHealth,
@@ -276,17 +276,15 @@ Key Features:
 
 7. **Video Demonstration**: Watch our tutorial video to get started with the app's features and make the most out of your conversion needs.
 
-8. **Download APK**: Access the APK file directly to install the app on your Android device quickly.
-
-9. **Simplify Your Life**: Whether you're a student, traveler, engineer, or simply curious, our Unit Converter simplifies your life by providing accurate conversions at your fingertips.
+8. **Simplify Your Life**: Whether you're a student, traveler, engineer, or simply curious, our Unit Converter simplifies your life by providing accurate conversions at your fingertips.
 
 Say goodbye to the hassle of manual calculations and hello to convenience and accuracy. Experience the power of seamless unit conversions with our Unit Converter app.
 
-To get started, check out our video tutorial and download the APK using the links below:
+To get started, check out video demo
 
 """,
       website: '',
-      gitHub: '',
+      gitHub: 'https://github.com/abdullahwaheed12/converter',
       top: true,
       demo: 'https://youtu.be/r-TbMosE5LE',
       screenshot: Screenshots.converter,
@@ -317,9 +315,8 @@ Key Features:
 
 11. **Efficiency and Reliability**: T-Save ensures that you receive timely and efficient home services, allowing you to carry on with your busy life hassle-free.
 
-Discover the future of home service booking and experience. Download T-Save-User today and start enjoying a world of convenience, reliability, and excellence in home services. Request services, provide feedback, and rate your experiences, all while tracking your service orders effortlessly. Your home deserves the best—make it happen with T-Save.
 """,
-      website: 'https://github.com/abdullahwaheed12/t-save-user',
+      website: '',
       gitHub: 'https://github.com/abdullahwaheed12/t-save-user',
       top: true,
       demo: 'https://youtu.be/5g96Vr24jFU',
@@ -360,7 +357,7 @@ Key Features:
 
 Join the movement of innovation and excellence in service provision. Download T-Save-Service-Provider today and experience the power of a student's vision for a brighter future in the service industry. Register your profile, undergo verification, and start accepting booking requests with confidence. Your dedication to service deserves a platform that empowers and supports your journey—find it with T-Save-Service-Provider.
 """,
-      website: 'https://github.com/abdullahwaheed12/t_save_service_provider',
+      website: '',
       gitHub: 'https://github.com/abdullahwaheed12/t_save_service_provider',
       top: true,
       demo: 'https://youtu.be/5g96Vr24jFU',
@@ -442,9 +439,8 @@ Key Features:
 
 Book a table is where culinary innovation meets the ease of dining out. Join our community of food lovers and restaurant owners today. Experience a world of flavors, support local businesses, and reserve tables for memorable dining occasions.
 
-Download Book a table now to embark on a culinary adventure that caters to your taste buds and ensures a dining experience that's worth savoring. Reserve your table, order your favorites, and enjoy dining like never before.
 """,
-      website: 'https://github.com/abdullahwaheed12/book_a_table_user',
+      website: '',
       gitHub: 'https://github.com/abdullahwaheed12/book_a_table_user',
       top: true,
       demo: 'https://youtu.be/5g96Vr24jFU',
@@ -484,9 +480,8 @@ Key Features:
 
 Book a table is where culinary innovation meets the ease of dining out. Join our community of food lovers and restaurant owners today. Experience a world of flavors, support local businesses, and reserve tables for memorable dining occasions.
 
-Download Book a table now to embark on a culinary adventure that caters to your taste buds and ensures a dining experience that's worth savoring. Reserve your table, order your favorites, and enjoy dining like never before.
 """,
-      website: 'https://github.com/abdullahwaheed12/book_a_table_restaurent',
+      website: '',
       gitHub: 'https://github.com/abdullahwaheed12/book_a_table_restaurent',
       top: true,
       demo: 'https://youtu.be/5g96Vr24jFU',

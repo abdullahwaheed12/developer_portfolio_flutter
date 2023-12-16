@@ -77,7 +77,7 @@ class _HeroCtaState extends State<HeroCta> {
                         backgroundColor: Colors.black12,
                         radius: 250,
                         backgroundImage: AssetImage(
-                          "assets/images/my_pic.jpeg",
+                          "assets/images/my_pic.png",
                         ),
                       ),
                     ),
@@ -135,7 +135,7 @@ class _HeroCtaState extends State<HeroCta> {
                       backgroundColor: Colors.black12,
                       radius: 100,
                       backgroundImage: AssetImage(
-                        "assets/images/my_pic.jpeg",
+                        "assets/images/my_pic.png",
                       ),
                     ),
                   ),

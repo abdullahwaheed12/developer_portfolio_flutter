@@ -20,8 +20,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'abdullah',
-      theme:
-          ThemeData(brightness: Brightness.light, primarySwatch: Colors.blue),
+      theme: ThemeData(
+          brightness: Brightness.light,
+          primarySwatch: Colors.blue,
+          useMaterial3: false),
       darkTheme: ThemeData(brightness: Brightness.dark),
       home: const Home(),
     );

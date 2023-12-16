@@ -66,11 +66,11 @@ class _TopMenuState extends State<TopMenu> {
                 title: 'Skills',
                 onTap: widget.skills,
               ),
-              TopMenuItem(
-                title: 'Blog',
-                onTap: widget.blog,
-              ),
-              const SizedBox(width: 10.0),
+              // TopMenuItem(
+              //   title: 'Blog',
+              //   onTap: widget.blog,
+              // ),
+              // const SizedBox(width: 10.0),
               // InkWell(
               //   onTap: () {
               //     UrlLaunch.launchInBrowser(url: apkDownloadLink);
