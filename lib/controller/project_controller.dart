@@ -146,7 +146,7 @@ Klomi airbnb is the clone of famous Arbnb app.
 Welcome to Klomi, your ultimate Airbnb clone experience! Discover the convenience and excitement of our platform, designed to provide you with a seamless and user-friendly accommodation booking process. With a vast selection of properties and unique stays, finding your perfect home away from home has never been easier. Whether you're looking for a cozy apartment in the heart of the city or a luxurious villa by the beach, Klomi has it all. Our secure and reliable platform ensures a hassle-free booking experience, allowing you to focus on creating unforgettable memories during your stay. Start your adventure with Klomi today!
 """,
       website: '',
-      gitHub: '',
+      gitHub: 'https://github.com/abdullahwaheed12/klomi-airbnbclone-main',
       top: true,
       demo:
           'https://www.youtube.com/watch?v=PsbZZM6x9gQ&ab_channel=abdullahWaheed',
