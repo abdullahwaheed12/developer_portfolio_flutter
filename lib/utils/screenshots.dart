@@ -278,4 +278,12 @@ class Screenshots {
     'https://play-lh.googleusercontent.com/DMmjmgjYR2Ycfjav1__orYuMVm8qGMxhJWr2GSXbTiEqzfUBhZbjyKrBQFjpak2OQjg=w5120-h2880-rw',
     'https://play-lh.googleusercontent.com/GuLi6Up5zbniN0kd4Bv1HIbnNvg053rdJ_1735rZ8yWxfwCfi6vB0UTWOrbCxeoKKrc=w5120-h2880-rw',
   ];
+  static List<String> weatherApp = [
+    'https://firebasestorage.googleapis.com/v0/b/my-portfolio-47e33.appspot.com/o/agendaVue%2FSplash.png?alt=media&token=95010545-c4a9-4b3c-a190-a3024d225865',
+    'https://firebasestorage.googleapis.com/v0/b/my-portfolio-47e33.appspot.com/o/agendaVue%2FHome.png?alt=media&token=f31d6c93-d41d-4d0c-8487-a130db47515f',
+    'https://firebasestorage.googleapis.com/v0/b/my-portfolio-47e33.appspot.com/o/agendaVue%2FSearch%20Location.png?alt=media&token=63e293c3-1750-4f92-bbe4-8a29225edbc9',
+    'https://firebasestorage.googleapis.com/v0/b/my-portfolio-47e33.appspot.com/o/agendaVue%2FLast%2012%20months%20selected.png?alt=media&token=d80fdc03-6146-4f0f-bab7-635531687e30',
+    'https://firebasestorage.googleapis.com/v0/b/my-portfolio-47e33.appspot.com/o/agendaVue%2FLast%203%20months%20by%20default.png?alt=media&token=f855351a-31e8-4a1e-ae56-12c8ecad9d90',
+    'https://firebasestorage.googleapis.com/v0/b/my-portfolio-47e33.appspot.com/o/agendaVue%2FLast%206%20months%20selected.png?alt=media&token=663e1156-70e6-4fde-a117-7a4d85147b47',
+  ];
 }

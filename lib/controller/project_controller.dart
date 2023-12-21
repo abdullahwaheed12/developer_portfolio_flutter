@@ -489,5 +489,27 @@ Book a table is where culinary innovation meets the ease of dining out. Join our
       miStore: '',
       playStore: '',
     ),
+    //19
+    ProjectModel(
+      title: "Tick Risk",
+      description: """
+
+Key Features:
+
+1. Google search just showing results just in canada.
+2. When app starts getting user current location and showing results on the basis of current location.
+3. Showing past 3 months calender in such a way that in which date tem over 0 degree if greater the 0 degree showing tick otherwise shwing simple date and export it into pdf.
+4. Showing past 6 months calender in such a way that in which date tem over 0 degree if greater the 0 degree showing tick otherwise shwing simple date and export it into pdf.
+4. Showing past 12 months calender in such a way that in which date tem over 0 degree if greater the 0 degree showing tick otherwise shwing simple date and export it into pdf.
+
+""",
+      website: '',
+      gitHub: '',
+      top: true,
+      demo: '',
+      screenshot: Screenshots.weatherApp,
+      miStore: '',
+      playStore: '',
+    ),
   ];
 }
